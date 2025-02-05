@@ -1,1 +1,1 @@
-# Lista-de-tarefa-para-Data-JS
+Funcionalidade para criar lista de tarefas por JAVASCRIPT implementado em HTML e CSS
